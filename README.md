@@ -1,5 +1,5 @@
 
-# BorgWarner Predictive Maintenance Project
+# Predictive Maintenance Project
 
 ## Overview
 Machine learning model to predict vehicle failures using sensor data.
